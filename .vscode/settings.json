@@ -1,0 +1,31 @@
+{
+  "json.schemaDownload.enable": true,
+  "workbench.colorCustomizations": {
+    "commandCenter.border": "#e7e7e799",
+    "titleBar.activeBackground": "#ab14d6",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveBackground": "#ab14d699",
+    "titleBar.inactiveForeground": "#e7e7e799"
+  },
+  "peacock.color": "#ab14d6",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "[typescript]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "css.lint.unknownAtRules": "ignore",
+  "cSpell.words": [
+    "cloudinary",
+    "clsx",
+    "datasource",
+    "hookform",
+    "ldiebg",
+    "lucide",
+    "nextjs",
+    "tanstack",
+    "trpc",
+    "zustand"
+  ]
+}
