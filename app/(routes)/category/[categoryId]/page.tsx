@@ -1,4 +1,4 @@
-import getColors from '@/actions/colors';
+import getColors from '@/actions/get-colors';
 import getCategory from '@/actions/get-category';
 import getProducts from '@/actions/get-products';
 import getSizes from '@/actions/get-sizes';
